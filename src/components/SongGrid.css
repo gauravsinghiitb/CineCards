@@ -1,0 +1,37 @@
+.song-grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr); /* 4 cards per row on large screens */
+  gap: 20px;
+  padding: 20px 0;
+}
+
+
+.my-masonry-grid {
+  margin-right: 10px;
+  margin-bottom: 50px;
+  margin-left: -74px;
+}
+
+.my-masonry-grid_column > div {
+  margin-bottom: -80px;
+   /* Ensures gap below each card */
+}
+
+
+@media (max-width: 1200px) {
+  .song-grid {
+    grid-template-columns: repeat(3, 1fr);
+  }
+}
+
+@media (max-width: 768px) {
+  .song-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+@media (max-width: 480px) {
+  .song-grid {
+    grid-template-columns: repeat(1, 1fr);
+  }
+}

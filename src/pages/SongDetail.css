@@ -1,0 +1,52 @@
+/* src/pages/SongDetail.css */
+.song-detail-layout {
+  padding: 20px;
+  color: #333;
+}
+
+.song-main {
+  display: flex;
+  gap: 30px;
+  align-items: flex-start;
+  flex-wrap: wrap;
+}
+
+.song-card-left {
+  flex: 0 0 auto;
+}
+
+.song-info {
+  flex: 1;
+  min-width: 280px;
+}
+
+.song-info h2 {
+  margin-bottom: 10px;
+  margin-left: 0;
+  font-size: 140px;
+  margin-top: 8%;
+}
+
+.song-buttons {
+  display: flex;
+  gap: 10px;
+  margin-top: 10px;
+}
+
+
+.download-button {
+  background-color: #333;
+  color: white;
+  border: none;
+  padding: 8px 12px;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 14px;
+}
+
+.like-button:hover,
+.download-button:hover {
+  background-color: #000;
+}
+
+
