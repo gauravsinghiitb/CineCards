@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/CineCards/static/css/main.57a1ee9b.css",
+    "main.js": "/CineCards/static/js/main.f97ee0c0.js",
+    "index.html": "/CineCards/index.html",
+    "main.57a1ee9b.css.map": "/CineCards/static/css/main.57a1ee9b.css.map",
+    "main.f97ee0c0.js.map": "/CineCards/static/js/main.f97ee0c0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.57a1ee9b.css",
+    "static/js/main.f97ee0c0.js"
+  ]
+}
