@@ -1,5 +1,6 @@
 # CineCards - movie and songs cards
-### Downloadable Movie and Song Cards and Details like Cast , Trailer , Similar Movies , Rating , Directed by , Produced by, Date Released , Running time
+#### Downloadable Movie and Song Cards
+##### Details like Cast , Trailer , Similar Movies , Rating , Directed by , Produced by, Date Released , Running time
 
 ## Movie Section
 ![image](https://github.com/user-attachments/assets/fadce1a3-08b0-4e33-96c7-a10462585dfd)
